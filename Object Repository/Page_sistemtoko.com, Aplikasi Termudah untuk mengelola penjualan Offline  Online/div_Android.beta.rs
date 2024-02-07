@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Android.beta</name>
+   <tag></tag>
+   <elementGuidId>2117917c-2ca5-4881-a052-cb9d07f9c371</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#android > div.col-xs-12.col-sm-6.col-lg-5 > div.box_banking > div.header-gray.inet-banking</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='android']/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c099bd4e-5659-428a-8cd7-679ca463a4f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>header-gray inet-banking</value>
+      <webElementGuid>765e8e7b-df41-4dce-966e-286333c9f65e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Android.beta</value>
+      <webElementGuid>fcc36181-3260-4b25-b948-2fb6b716fc5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;android&quot;)/div[@class=&quot;col-xs-12 col-sm-6 col-lg-5&quot;]/div[@class=&quot;box_banking&quot;]/div[@class=&quot;header-gray inet-banking&quot;]</value>
+      <webElementGuid>41339304-9015-49d5-9390-9f54f05a9153</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='android']/div[2]/div/div</value>
+      <webElementGuid>26b6280c-62f2-4941-8114-2deb1e4b7803</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Custom Website Design'])[1]/following::div[6]</value>
+      <webElementGuid>a7afa530-3cc9-4f6a-bcf1-0e1dce084482</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Template Website'])[1]/following::div[10]</value>
+      <webElementGuid>b5074354-ce5b-4c39-a00f-467fdab652c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Miliki aplikasi Android di playstore'])[1]/preceding::div[1]</value>
+      <webElementGuid>69c46ba6-e841-4b79-9e67-4c1efd551037</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Android']/parent::*</value>
+      <webElementGuid>df6a7295-7e7f-4282-9dd3-356cfe2761ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[4]/div[2]/div/div</value>
+      <webElementGuid>21cbbe5f-d90b-4d4b-964d-c0d402eaa3a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Android.beta' or . = 'Android.beta')]</value>
+      <webElementGuid>bbb969b9-31b2-4981-b60e-2ab425fac722</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

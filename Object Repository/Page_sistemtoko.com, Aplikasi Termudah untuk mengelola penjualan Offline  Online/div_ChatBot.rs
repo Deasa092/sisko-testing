@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_ChatBot</name>
+   <tag></tag>
+   <elementGuidId>a185e7cb-dbd7-4fdb-b055-1ab8c3f5b62e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-xs-12.col-sm-6.col-lg-6.fitur-other-padding-left > div.box_banking > div.header-gray.inet-banking</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='chatbot']/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6466ec5d-dea1-4d1f-bb8c-d6df3c5c0d4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>header-gray inet-banking</value>
+      <webElementGuid>c38595bc-4fe6-4524-aeae-e3b8cc41b03c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ChatBot</value>
+      <webElementGuid>887512e6-bee6-4e03-bce9-856ae2db073c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;siskofrontend&quot;]/section[@id=&quot;chatbot&quot;]/div[@class=&quot;col-xs-12 col-sm-6 col-lg-6 fitur-other-padding-left&quot;]/div[@class=&quot;box_banking&quot;]/div[@class=&quot;header-gray inet-banking&quot;]</value>
+      <webElementGuid>aee1c7de-b851-4a81-a947-9c2745126e16</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='chatbot']/div[2]/div/div</value>
+      <webElementGuid>557583f4-c56b-4754-b6a5-6d02894f39c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keuntungan Lain dari Kami'])[1]/following::div[5]</value>
+      <webElementGuid>509530aa-7123-4e17-ba06-3184b787d6ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Custom Logo'])[1]/following::div[10]</value>
+      <webElementGuid>93544b9b-f629-4262-b0bf-6a78449d849c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dapat secara otomatis membalas chatingan customer'])[1]/preceding::div[1]</value>
+      <webElementGuid>bf8c23dc-3629-4705-be0d-0158cd76b32c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cek Stock'])[1]/preceding::div[2]</value>
+      <webElementGuid>3956c8eb-ad02-400f-9c32-392cde9cc8d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[6]/div[2]/div/div</value>
+      <webElementGuid>b68dfe76-260a-4980-bc5a-67091ee74b90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'ChatBot' or . = 'ChatBot')]</value>
+      <webElementGuid>0c2365ec-0a3f-4788-864a-de42b681374c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

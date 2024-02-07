@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Demo-Sekarang-btn</name>
+   <tag></tag>
+   <elementGuidId>3b795e0d-e211-4c1c-96b8-8c4cf0626de8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='android']/div[2]/div/div[7]/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-lg.signup.demo-button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9297882c-45d0-4a45-856c-ad8ea39e9e1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-lg signup demo-button</value>
+      <webElementGuid>92b32b16-38f1-4b2d-81f3-b24ad9da207d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://play.google.com/store/apps/details?id=com.sistemtoko.nooraia</value>
+      <webElementGuid>5c0015bd-cdb7-4b9b-8db9-da43c55b3816</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>640ca939-cbd1-4894-ba7f-8218a3ffd82a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Demo Sekarang</value>
+      <webElementGuid>5ec2ddf9-ffd1-49f9-86e9-167c1cbf7462</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;android&quot;)/div[@class=&quot;col-xs-12 col-sm-6 col-lg-5&quot;]/div[@class=&quot;box_banking&quot;]/div[@class=&quot;col-md-12 fiture-box&quot;]/div[@class=&quot;col-md-12 col-sm-12 col-xs-12&quot;]/div[@class=&quot;fiture-header&quot;]/a[@class=&quot;btn btn-lg signup demo-button&quot;]</value>
+      <webElementGuid>d1f820eb-cdc6-4047-91e0-1fc04bb0c5d6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='android']/div[2]/div/div[7]/div/div/a</value>
+      <webElementGuid>ca20ce61-13de-4276-a75e-603f9713e2ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Demo Sekarang')]</value>
+      <webElementGuid>19cd3887-54e1-4cad-af24-930da7020272</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status Order'])[1]/following::a[1]</value>
+      <webElementGuid>b90728d2-d39e-4e77-8517-612883d65509</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terintegrasi'])[1]/following::a[1]</value>
+      <webElementGuid>bce2f740-3559-42b5-b5c8-039654cfdc3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Design dan Custom Logo'])[1]/preceding::a[1]</value>
+      <webElementGuid>a3f46da1-d0c4-4683-b157-624274cf0247</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Miliki tampilan logo untuk usaha anda'])[1]/preceding::a[1]</value>
+      <webElementGuid>4ed65180-d7e1-4351-8a7e-d0ba7ddb59ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Demo Sekarang']/parent::*</value>
+      <webElementGuid>bebb6740-6927-49ac-89d0-711d93e6a837</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://play.google.com/store/apps/details?id=com.sistemtoko.nooraia')]</value>
+      <webElementGuid>1d36d68b-9b57-4279-bc75-4fc24020faba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/a</value>
+      <webElementGuid>d0443809-a9d4-4a51-b93c-aaa9fa3b9d74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://play.google.com/store/apps/details?id=com.sistemtoko.nooraia' and (text() = 'Demo Sekarang' or . = 'Demo Sekarang')]</value>
+      <webElementGuid>c1786748-8113-4609-9a23-504d208f8d7e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>register-using-invalid-voucher-code</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c504bb9e-f05e-402e-8229-29a607b9171f</testCaseGuid>
+</TestCaseEntity>

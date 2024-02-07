@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>contact-facebook</name>
+   <tag></tag>
+   <elementGuidId>7c8c34a0-6c9a-4226-b312-235fc60f5b2f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='facebook sistemtoko.com']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;facebook sistemtoko.com&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>c4c5c8be-3733-4db8-a824-99dfbdf9445b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://sistemtoko.com/assets/landing-page-new/assets/images/sosmed-fb.png</value>
+      <webElementGuid>ed4c0348-b40e-4458-a441-81bf756e5a1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>facebook sistemtoko.com</value>
+      <webElementGuid>2cf7a63c-bb29-42fe-981a-52ace5734aa6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;siskofrontend&quot;]/aside[@class=&quot;socialmedia&quot;]/div[@class=&quot;image-sosmed&quot;]/a[1]/img[1]</value>
+      <webElementGuid>35e2afb5-7fdc-4c61-8f9f-0313f8b15ad5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='facebook sistemtoko.com']</value>
+      <webElementGuid>ce30998d-060f-4067-89ae-533fe9337291</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//aside/div/a/img</value>
+      <webElementGuid>34e051f5-0d70-4e4e-9e53-49795970f369</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://sistemtoko.com/assets/landing-page-new/assets/images/sosmed-fb.png' and @alt = 'facebook sistemtoko.com']</value>
+      <webElementGuid>5c0abf58-3734-4f2a-87ec-53e8c5d3b763</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

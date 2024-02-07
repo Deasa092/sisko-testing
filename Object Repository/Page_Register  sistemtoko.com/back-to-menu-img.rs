@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>back-to-menu-img</name>
+   <tag></tag>
+   <elementGuidId>7702260f-8e09-4627-884d-2f5c9b9a594a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[contains(@src,'https://sistemtoko.com/img/logo-kotak-old.png')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>8fc9a41f-d82b-4e08-be2d-0d468cabf3f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://sistemtoko.com/img/logo-kotak-old.png</value>
+      <webElementGuid>b9a03ca8-b618-4bf9-b6f9-7f1c158e4a0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;no-js css-menubar&quot;]/body[@class=&quot;page-register-v3 layout-full&quot;]/div[@class=&quot;page animsition vertical-align text-center&quot;]/a[1]/img[1]</value>
+      <webElementGuid>0e4ab61e-193d-43d9-9e08-39f16639cd51</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://sistemtoko.com/img/logo-kotak-old.png')]</value>
+      <webElementGuid>9bf33870-e521-495b-a92b-f40fe1118af2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>0d956319-6046-4ef2-8825-a71703932d62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://sistemtoko.com/img/logo-kotak-old.png']</value>
+      <webElementGuid>4c454a0e-8b96-423e-808c-a35bf399e761</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
